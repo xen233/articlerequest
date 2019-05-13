@@ -1,0 +1,16 @@
+{
+    "name": "ncft/articlerequest",
+    "description": "Form for requesting ILLs",
+    "type": "project",
+    "license": "CC-BY",
+    "authors": [
+        {
+            "name": "tim jacobs",
+            "email": "ti_jacobs@hotmail.com"
+        }
+    ],
+    "require": {
+        "sendgrid/sendgrid": "~7",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
